@@ -2,10 +2,10 @@
 title: Online Data Entry Services
 subtitle: Administrative Tasks
 category:
-  - About Awake
+  - Online Data Entry Services
 author: Admin
 date: 2020-10-26T13:46:07.176Z
-featureImage: /uploads/contact-hero.jpg
+featureImage: /uploads/addpic.jpg
 ---
 Online Data Entry Services as a Virtual Assistant reduces the burden of data entry work, mistakes, time and money.
 
